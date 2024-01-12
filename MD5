@@ -1,0 +1,15 @@
+eb31c877a2eaece32135951d1f14a0bc *DESCRIPTION
+5bd54b02f94c1dd5ac56cc4c831a7d42 *NAMESPACE
+942690725039bd159301437ef0221c66 *R/innprod.R
+c48223948df63254e904b786fd1a5159 *R/sped.R
+e037baaebb84ddbad128f84452b5498c *R/spedecon-spedecon.R
+71f4a04491d2be6fb89214c93fcdb0e6 *R/utils.R
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+4ba88a047c1cf7dd08b68e8c1c57bfe1 *inst/CITATION
+93720a46c8cdbb958afa771e7f6bfd76 *man/compute_ephemera.Rd
+50864548bd43bfdb1e9f8d2a7f9e32ff *man/gaussian_gtwid.Rd
+2f962ab11064e30dd69dd2de107970fd *man/laplace_gtwid.Rd
+3eec051ff2cc3ef3b1c125f1456797aa *man/new_spedecon_gtwid.Rd
+b7e58454ba32176c13b6dbf3c72a3b1a *man/new_spedecon_spline_sped_fit.Rd
+3332d0188c85ffe36af3801dd388b833 *man/sped.Rd
+664dd5ef7fbeea0fd2ad4592f8bb3f06 *man/uniform_gtwid.Rd

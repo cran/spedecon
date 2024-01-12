@@ -1,0 +1,12 @@
+bibentry(bibtype = "Article",
+  title        = "Smoothness-{Penalized} {Deconvolution} ({SPeD}) of a {Density} {Estimate}",
+  author       = c(person(given = "David",
+                          family = "Kent"),
+                   person(given = "David",
+                          family = "Ruppert")),
+  journal      = "Journal of the American Statistical Association",
+  year         = "2023",
+  pages        = "to appear",
+  doi          = "10.1080/01621459.2023.2259028",
+  issn         = "0162-1459"
+)
